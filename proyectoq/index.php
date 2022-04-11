@@ -11,7 +11,7 @@
             <div class="contenedor">
                 <ul>
                     <li><a href="#">Inicio</a></li>
-                    <li><a href="#">Encuentra tu ruta</a></li>
+                    <li><a href="vista/mapa.php">Encuentra tu ruta</a></li>
                     <li><a href="vista/ingreso.php">Identificate</a></li>
                     <li><a href="#">Contacto</a></li>
                 </ul>            

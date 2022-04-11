@@ -31,7 +31,7 @@
                 <!--Formulario de Login y registro-->
                 <div class="contenedor__login-register">
                     <!--Login-->
-                    <form action="" method="POST" class="formulario__login">
+                    <form action="../modelo/login.php" method="POST" class="formulario__login">
                         <h2>Iniciar Sesión</h2>
                         <input type="text" placeholder="Correo Electronico" name="email">
                         <input type="password" placeholder="Contraseña" name="clave">
